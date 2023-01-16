@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\prjShoppingCar"
+    "\\prjShoppingCar",
+    "\\prjShoppingCar\\Controllers",
+    "\\prjShoppingCar\\Views",
+    "\\prjShoppingCar\\Views\\Home",
+    "\\prjShoppingCar\\Views\\Member"
   ],
   "SelectedNode": "\\prjShoppingCar.sln",
   "PreviewInSolutionExplorer": false
