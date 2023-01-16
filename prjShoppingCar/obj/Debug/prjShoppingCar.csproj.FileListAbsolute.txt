@@ -1,0 +1,246 @@
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\csi.exe.config
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Console.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Globalization.Calendars.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.IO.Compression.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Net.Http.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Net.Sockets.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.ValueTuple.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Xml.XPath.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.AssemblyReference.cache
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+D:\C#\MVC實作\ch11\prjShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\csi.exe.config
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Managed.Core.targets
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Console.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Globalization.Calendars.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.IO.Compression.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Net.Http.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Net.Sockets.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.ValueTuple.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Xml.XmlDocument.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Xml.XPath.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.AssemblyReference.cache
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+I:\程式語言學習\ASP.NET MVC\實作\ch11\prjShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\csi.exe.config
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Managed.Core.targets
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Console.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Globalization.Calendars.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.IO.Compression.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Net.Http.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Net.Sockets.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.ValueTuple.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Xml.XmlDocument.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Xml.XPath.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.AssemblyReference.cache
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+D:\sshstudiocode\C#\prjShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
